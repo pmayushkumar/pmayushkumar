@@ -1,4 +1,4 @@
-**👋 Hi, I'm Ayush** 
+#👋 Hi, I'm Ayush
 
 AI Native Product Builder & Leader - Consumer Tech & PLG SaaS | Human psychology | Reforge alum | Curious Learner | Restless Dreamer
 
@@ -14,7 +14,7 @@ I bring an AI native lens to everything your business does. I can help build AI 
 
 😄 Fun fact
 
-I am a dad of 2 boys; 2 & 4 yrs (I know 😅; we'll see how that goes). As a millennial, GenZs have started making me feel like a GenX! I’m feeling the pressure of picking up their lingo. BTW, is there an AI for that 😆?
+I am a dad of 2 boys; 2 & 4 yrs *(I know 😅; we'll see how that goes)*. As a millennial, GenZs have started making me feel like a GenX! I’m feeling the pressure of picking up their lingo. BTW, is there an AI for that 😆?
 
 📫 How to reach me
 
