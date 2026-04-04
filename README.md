@@ -8,9 +8,9 @@ I have 15 years experience working in product management across B2C and B2B PLG 
 
 ProLeap is a world-class AI "Shadow Coach" designed to democratize executive-level coaching for senior ICs (https://proleap.ai). Leveraging LLMs and RAG architectures to analyze behavior, leadership styles, and cultural nuances in real-time to provide actionable, evidence-based executive coaching.
 
-### 💼 AI Product/Business Consulting
+### 💼 My Services
 
-I bring an AI native lens to everything your business does. I can help build AI strategy, execute AI initiatives, help with post-launch evals & monitoring of AI. I can connect AI native lens with my 15 years of experience around business <> user empathy <> data.
+I bring an AI native lens to everything your business does. I help build AI products, build AI strategy, execute AI initiatives, help with post-launch evals & monitoring of AI. I can connect AI native lens with my 15 years of experience around business <> user empathy <> data.
 
 ### 😄 Fun fact
 
