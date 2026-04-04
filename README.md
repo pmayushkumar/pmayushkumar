@@ -6,7 +6,7 @@ I have 15 years experience working in product management across B2C and B2B PLG 
 
 ### 🚀 What I'm Building Now
 
-ProLeap is a world-class AI "Shadow Coach" designed to democratize executive-level coaching (https://proleap.ai). Leveraging LLMs and RAG architectures to analyze behavior, leadership styles, and cultural nuances in real-time to provide actionable, evidence-based executive coaching to senior ICs who could never afford it.
+ProLeap is a world-class AI "Shadow Coach" designed to democratize executive-level coaching for senior ICs (https://proleap.ai). Leveraging LLMs and RAG architectures to analyze behavior, leadership styles, and cultural nuances in real-time to provide actionable, evidence-based executive coaching.
 
 ### 💼 AI Product/Business Consulting
 
