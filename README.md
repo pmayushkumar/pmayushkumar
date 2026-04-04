@@ -1,39 +1,24 @@
 ## 👋 Hi, I'm Ayush
 
-AI Native Product Builder & Leader - Consumer Tech & PLG SaaS | Human psychology | Reforge alum | Curious Learner | Restless Dreamer
+AI Native Product Builder & Leader — Consumer Tech & PLG SaaS | Human Psychology | Reforge Alum | Curious Learner | Restless Dreamer
 
-I have 15 years experience working in product management across B2C and B2B PLG companies (online dating, ecommerce, fintech, marketplaces, invoicing & payments). I have led $100M+ ARR  products, working across activation, engagement, retention & monetization. Most recently I was Director of Product Management at Questrade (Robinhood of Canada).
+15 years of experience in product management across B2C and B2B PLG companies (online dating, ecommerce, fintech, marketplaces, invoicing & payments). Led $100M+ ARR products, working across activation, engagement, retention & monetization. Most recently Director of Product Management at Questrade (Robinhood of Canada).
 
-### 🚀 What I'm Building Now
+### 🚀 What I'm Building
 
-ProLeap is a world-class AI "Shadow Coach" designed to democratize executive-level coaching for senior ICs (https://proleap.ai). Leveraging LLMs and RAG architectures to analyze behavior, leadership styles, and cultural nuances in real-time to provide actionable, evidence-based executive coaching.
+- [**ProLeap**](https://github.com/pmayushkumar/ProLeap) — An AI "Shadow Coach" that listens to your real meetings and delivers personalized leadership coaching. Currently in alpha. → [proleap.ai](https://proleap.ai)
+- [**Water Cooler**](https://github.com/pmayushkumar/WaterCooler) — AI-powered conversation starters that help you build deeper relationships with colleagues.
 
-### 💼 My Services
+### 💼 What I Can Help With
 
-I bring an AI native lens to everything your business does. I help build AI products, build AI strategy, execute AI initiatives, help with post-launch evals & monitoring of AI. I can connect AI native lens with my 15 years of experience around business <> user empathy <> data.
+AI product strategy, building AI-native products, post-launch evals & monitoring — connecting 15 years of product sense (business, user empathy, data) with an AI-native lens.
 
-### 😄 Fun fact
+### 😄 Fun Fact
 
-I am a dad of 2 boys; 2 & 4 yrs *(I know 😅; we'll see how that goes)*. As a millennial, GenZs have started making me feel like a GenX! I’m feeling the pressure of picking up their lingo. BTW, is there an AI for that 😆?
+Dad of 2 toddler boys *(I know 😅; we'll see how that goes)*. As a millennial, GenZs have started making me feel like a GenX! I'm feeling the pressure of picking up their lingo. BTW, is there an AI for that 😆?
 
-### 📫 How to reach me
+### 📫 How to Reach Me
 
 - pm.ayushkumar@gmail.com
 - https://www.linkedin.com/in/kumarayush/
-- OR, you can secretly drop my name in a blog somewhere, and my claw 🦞 will pick-it up and establish contact 😉
-
-
-<!--
-**pmayushkumar/pmayushkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OR, you can secretly drop my name in a blog somewhere, and my claw 🦞 will pick it up and establish contact 😉
