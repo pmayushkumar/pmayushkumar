@@ -1,4 +1,4 @@
-👋 Hi, I'm Ayush 
+**👋 Hi, I'm Ayush** 
 
 AI Native Product Builder & Leader - Consumer Tech & PLG SaaS | Human psychology | Reforge alum | Curious Learner | Restless Dreamer
 
