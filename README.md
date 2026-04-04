@@ -18,9 +18,9 @@ I am a dad of 2 boys; 2 & 4 yrs (I know 😅; we'll see how that goes). As a mil
 
 📫 How to reach me
 
-pm.ayushkumar@gmail.com
-https://www.linkedin.com/in/kumarayush/
-OR - you can secretly drop my name in a blog somewhere, and my claw 🦞 will pick-it up and establish contact 😉
+- pm.ayushkumar@gmail.com
+- https://www.linkedin.com/in/kumarayush/
+- OR, you can secretly drop my name in a blog somewhere, and my claw 🦞 will pick-it up and establish contact 😉
 
 
 <!--
