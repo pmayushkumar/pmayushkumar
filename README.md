@@ -2,7 +2,7 @@
 
 AI Native Product & Growth Leader - Consumer Tech & PLG SaaS | Human psychology | Reforge alum | Curious Learner | Restless Dreamer
 
-I have 15 years experience working in product management across B2C and B2B PLG companies (online dating, ecommerce, fintech, marketplaces, invoicing & payments). Most recently I was Director of Product Management at Questrade (Robinhood of Canada).
+I have 15 years experience working in product management across B2C and B2B PLG companies (online dating, ecommerce, fintech, marketplaces, invoicing & payments). I have led $100M+ ARR  products, working across activation, engagement, retention & monetization. Most recently I was Director of Product Management at Questrade (Robinhood of Canada).
 
 🚀 What I'm Building Now
 
@@ -12,8 +12,15 @@ ProLeap is a world-class AI "Shadow Coach" designed to democratize executive-lev
 
 I bring an AI native lens to everything your business does. I can help build AI strategy, execute AI initiatives, help with post-launch evals & monitoring of AI. I can connect AI native lens with my 15 years of experience around business <> user empathy <> data.
 
+😄 Fun fact
+
+I am a dad of 2 boys; 2 & 4 yrs (I know 😅; we'll see how that goes). As a millennial, GenZs have started making me feel like a GenX! I’m feeling the pressure of picking up their lingo. BTW, is there an AI for that 😆?
+
 📫 How to reach me
 
+pm.ayushkumar@gmail.com
+https://www.linkedin.com/in/kumarayush/
+OR - you can secretly drop my name in a blog somewhere, and my claw 🦞 will pick-it up and establish contact 😉
 
 
 <!--
