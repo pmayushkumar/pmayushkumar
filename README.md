@@ -1,6 +1,6 @@
 👋 Hi, I'm Ayush 
 
-AI Native Product & Growth Leader - Consumer Tech & PLG SaaS | Human psychology | Reforge alum | Curious Learner | Restless Dreamer
+AI Native Product Builder & Leader - Consumer Tech & PLG SaaS | Human psychology | Reforge alum | Curious Learner | Restless Dreamer
 
 I have 15 years experience working in product management across B2C and B2B PLG companies (online dating, ecommerce, fintech, marketplaces, invoicing & payments). I have led $100M+ ARR  products, working across activation, engagement, retention & monetization. Most recently I was Director of Product Management at Questrade (Robinhood of Canada).
 
