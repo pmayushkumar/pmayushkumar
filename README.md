@@ -23,7 +23,7 @@ Dad of 2 toddler boys *(I know 😅; we'll see how that goes)*. As a millennial,
 
 ### 📫 How to Reach Me
 
+- [Book 30 min call](https://calendar.app.google/FYa6crsidVpXggH86)
 - [Email me](mailto:pm.ayushkumar@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/kumarayush/)
-- [Book 30 min call](https://calendar.app.google/FYa6crsidVpXggH86)
 - OR, you can secretly drop my name in a blog somewhere, and my claw 🦞 will pick it up and establish contact 😉
