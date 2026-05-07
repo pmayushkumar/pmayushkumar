@@ -1,8 +1,14 @@
 ## 👋 Hi, I'm Ayush
 
-AI Native Product Builder & Leader — Consumer Tech & PLG SaaS | Human Psychology | Reforge Alum | Curious Learner | Restless Dreamer
+Fractional AI Product Builder for Startups & Agencies
 
-15 years of experience in product management across B2C and B2B PLG companies (online dating, ecommerce, fintech, marketplaces, invoicing & payments). Led $100M+ ARR products, working across activation, engagement, retention & monetization. Most recently Director of Product Management at Questrade (Robinhood of Canada).
+13+ years of experience in product management across B2C and B2B PLG companies (online dating, ecommerce, fintech, marketplaces, invoicing & payments). Led $100M+ ARR products, working across activation, engagement, retention & monetization. Most recently Director of Product Management at Questrade (Robinhood of Canada).
+
+### 💼 How I Help
+
+- Opportunity Audit. 2 weeks to map where AI pays back.
+- 30-Day Sprint. One specific bottleneck to working alpha in a month.
+- Strategic Sounding Board. Weekly retainer for product or eng leaders making AI calls.
 
 ### 🚀 What I'm Building
 
@@ -10,9 +16,6 @@ AI Native Product Builder & Leader — Consumer Tech & PLG SaaS | Human Psycholo
 - [**Interview Coach**](https://github.com/pmayushkumar/interview-analysis-coach) — Post-interview coach for product managers; 50+ tools to prepare for interviews, but 0 tools to know how it went. "Shadow Coach" that listens to your interviews and delivers hyper-personalized analysis. Currently in alpha. → [proleap.ai](https://proleap.ai/interview)
 - [**Water Cooler**](https://github.com/pmayushkumar/WaterCooler) — Deepen your relationships with colleagues by having authentic & personal conversations. Watercooler delivers weekly conversation starters in your email, based on your their background.
 
-### 💼 What I Can Help With
-
-AI product strategy, building AI-native products, post-launch evals & monitoring — connecting 15 years of product sense (business, user empathy, data) with an AI-native lens.
 
 ### 😄 Fun Fact
 
@@ -22,4 +25,5 @@ Dad of 2 toddler boys *(I know 😅; we'll see how that goes)*. As a millennial,
 
 - [Email me](mailto:pm.ayushkumar@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/kumarayush/)
+- [Book 30 min call](https://calendar.app.google/FYa6crsidVpXggH86)
 - OR, you can secretly drop my name in a blog somewhere, and my claw 🦞 will pick it up and establish contact 😉
