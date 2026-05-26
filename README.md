@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ayush
 
-Fractional AI Product Builder for Startups & Agencies
+Fractional AI Product Builder for Startups
 
 13+ years of experience in product management across B2C and B2B PLG companies (online dating, ecommerce, fintech, marketplaces, invoicing & payments). Led $100M+ ARR products, working across activation, engagement, retention & monetization. Most recently Director of Product Management at Questrade (Robinhood of Canada).
 
